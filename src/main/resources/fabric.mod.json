@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "furynace",
+  "version": "${version}",
+  "name": "Furynace",
+  "description": "Makes furnace explode when it has gunpowder inside it.",
+  "authors": [
+    "Mayaqq"
+  ],
+  "contact": {
+    "repo": "https://github.com/MayaqqDev/furynace"
+  },
+  "license": "LGPL-3.0",
+  "icon": "assets/furynace/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "dev.mayaqq.furynace.datagen.FurynaceDatagen"
+    ],
+    "client": [
+      "dev.mayaqq.furynace.client.FurynaceClient"
+    ],
+    "main": [
+      "dev.mayaqq.furynace.Furynace"
+    ]
+  },
+  "mixins": [
+    "furynace.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 201,
+  "experience": 0.1,
+  "group": "explod",
+  "ingredient": {
+    "item": "minecraft:gunpowder"
+  },
+  "result": "minecraft:charcoal"
+}
