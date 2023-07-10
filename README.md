@@ -1,10 +1,10 @@
 <div align="center">
 
-# `Labyrinth`
+# `Furynace`
 
-[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/mod/labyrinth/versions)
-[![Curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/curseforge_64h.png)](https://www.curseforge.com/minecraft/mc-mods/labyrinth)
-[![Github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/github_64h.png)](https://github.com/MayaqqDev/labyrinth/)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/modrinth_64h.png)](https://modrinth.com/mod/furynace/versions)
+[![Curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/curseforge_64h.png)](https://www.curseforge.com/minecraft/mc-mods/furynace)
+[![Github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/available/github_64h.png)](https://github.com/MayaqqDev/furynace/)
 ## `Information`
 
 Makes a furnaces explode when you smelth gunpowder in them, the more gunpowder you add the bigger explosion it creates!
